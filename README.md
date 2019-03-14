@@ -1,1 +1,1 @@
-# metix-city-bot
+# metix-city
